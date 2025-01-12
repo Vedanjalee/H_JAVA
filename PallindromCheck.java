@@ -16,8 +16,7 @@ public class PallindromCheck {
     
         public static void main(String[] args) {
             String inputStr = "madam";
-            System.out.println(isPalindrome(inputStr));  // Output: true
-        }
+            System.out.println(isPalindrome(inputStr));  
     }
     
 
