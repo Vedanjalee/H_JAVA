@@ -9,6 +9,6 @@ public class StringReverse {
 
     public static void main(String[] args) {
         String inputStr = "hello";
-        System.out.println(reverseString(inputStr));  // Output: "olleh"
+        System.out.println(reverseString(inputStr));  
     }
 }
