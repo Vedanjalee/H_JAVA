@@ -11,6 +11,6 @@ public class CountCharacter {
 
     public static void main(String[] args) {
         String inputStr = "hello";
-        System.out.println(countChar(inputStr, 'l'));  // Output: 2
+        System.out.println(countChar(inputStr, 'l')); 
     }
 }
