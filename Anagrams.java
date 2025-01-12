@@ -12,7 +12,7 @@ public class Anagrams {
     public static void main(String[] args) {
         String str1 = "listen";
         String str2 = "silent";
-        System.out.println(areAnagrams(str1, str2));  // Output: true
+        System.out.println(areAnagrams(str1, str2)); 
     }
 }
 
